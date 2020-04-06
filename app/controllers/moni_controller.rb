@@ -1,0 +1,2 @@
+class MoniController < ApplicationController
+end
