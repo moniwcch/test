@@ -6,3 +6,12 @@ class CreateArticles < ActiveRecord::Migration[6.0]
     end
   end
 end
+
+create === Articlr.create();
+
+Article.find(1);
+
+
+
+
+
