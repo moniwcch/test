@@ -1,5 +1,5 @@
 class ArticlesController < ApplicationController
     def show
-        @article = Article.first
+        @article = Article.find(params[:id])
     end
 end
